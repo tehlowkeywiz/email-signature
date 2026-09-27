@@ -1,0 +1,10 @@
+# Drift-registry entry (registry v2). Non-derivable per-repo facts only.
+# Schema and field meanings: tehlowkeywiz/dotclaude .claude/registry.yml.
+# Class definitions: tehlowkeywiz/dotclaude portfolio/classes.md.
+
+summary: "Public repo hosting the images Phil's email signature loads; files must never be renamed or deleted."
+classes: [B]
+url: "https://raw.githubusercontent.com/tehlowkeywiz/email-signature/main/"
+linear_project_id: null  # no Linear project yet
+repo_class: project
+merge_mode: normal
