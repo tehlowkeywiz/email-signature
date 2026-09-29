@@ -4,7 +4,7 @@
 
 summary: "Public repo hosting the images Phil's email signature loads; files must never be renamed or deleted."
 classes: [B]
-url: "https://raw.githubusercontent.com/tehlowkeywiz/email-signature/main/"
+url: "https://raw.githubusercontent.com/tehlowkeywiz/email-signature/main/linkedin-icon-28x28.png"
 linear_project_id: null  # no Linear project yet
 repo_class: project
 merge_mode: normal
